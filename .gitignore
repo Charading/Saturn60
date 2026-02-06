@@ -1,0 +1,14 @@
+# KiCad backups
+*-backups/
+*.kicad_sch-bak
+*.lck
+
+# KiCad cache/logs
+fp-info-cache
+kbplacer.log
+
+# Freerouting temp
+temp-freerouting.dsn
+
+# Database
+database/
