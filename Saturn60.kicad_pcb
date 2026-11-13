@@ -5366,7 +5366,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "668a753a-8d9f-4710-a2b6-523b129fc83d")
+			(uuid "ecfa5fce-e4b4-4aca-9a34-24eaa5cee3ee")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -7424,7 +7424,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "cd7974fd-77cd-4d73-b507-a0407fc0ad7e")
+			(uuid "9233ddef-5784-435d-96b0-8984d2faabea")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -9404,7 +9404,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "52631f6c-6fdc-4a09-8a97-a76fd4cb532e")
+			(uuid "8a8a3560-9d0d-4d02-b8ce-295df215e6f6")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -10929,7 +10929,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "3100349e-4dc0-432d-a8d3-5f37129067be")
+			(uuid "cf26f638-2e30-4085-a088-7e7731c113bc")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -15063,7 +15063,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "dd31e211-fefb-4091-bb29-4ccc8b8e3fef")
+			(uuid "b1d2ceeb-3554-41a9-8534-cde6bccf0fda")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -15861,7 +15861,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "1b8ab551-3e7a-46ec-9981-2e6e7ae177a2")
+			(uuid "c31b586f-c34c-4f1c-8796-ad4c9a715ac3")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -16424,7 +16424,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "aa630d9f-48ea-40aa-9602-8313bc492872")
+			(uuid "2880f9fc-7993-4d2d-9c25-12ac26d523eb")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -19255,7 +19255,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "3249a1da-e987-44c1-8839-b88519051a24")
+			(uuid "532ad3d7-e99e-40d9-97f7-a252cef7e5cf")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -19818,7 +19818,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "2245cb67-a43c-4a31-a42d-9cef4978885e")
+			(uuid "9adfb9d7-36a3-42f1-97be-207d1457782d")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -21394,7 +21394,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "336afa2a-ecf8-4abe-af8b-b73848360858")
+			(uuid "f2662197-2e4e-4509-8b01-07e283b46f06")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -22202,7 +22202,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "eec404ef-7f54-457e-9851-fa337a5a903f")
+			(uuid "f102a32b-724e-4cc7-9ada-17a04129aa0c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -22765,7 +22765,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "b6d078c3-64db-404a-88d0-63db0f7778e4")
+			(uuid "9da4acae-3262-4279-b857-656cd3c7b06c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -23745,7 +23745,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "e1d780d9-bee5-4dde-bd31-65714216fb4c")
+			(uuid "74dea10c-d4bd-4625-8163-f63183f0a443")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -25158,7 +25158,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "01962a48-7ed1-4e76-b199-f286de6f2deb")
+			(uuid "a0afe867-c761-4fdb-ba67-d2306a482937")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -25947,7 +25947,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "50010b3c-5c28-4fba-b40f-ec719b8f96c8")
+			(uuid "dc12e9cc-0a52-4dd4-8696-a270836afb4a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -29102,7 +29102,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "12f9c14f-b1c6-4c8b-88b3-712bc800128b")
+			(uuid "28e928d8-afa4-45b9-879d-bc848f56b578")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -29665,7 +29665,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "f47ec318-3e2f-4138-9f46-781051fca2b2")
+			(uuid "5da7ef22-919a-4696-9631-30ea7c42aa65")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -30228,7 +30228,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "baf3f36a-bb04-4eb0-a7ca-e7660973f352")
+			(uuid "1baa9153-38f9-41ef-90a5-f1b24e9635eb")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -31281,7 +31281,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "012bbda1-4327-405a-800e-95c3fa61c559")
+			(uuid "ab5d4af1-333c-4305-9ff9-84d1cbd271f3")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -35545,7 +35545,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "e6cab0b0-d241-41d5-9840-f4bc01ad22dc")
+			(uuid "b5a45772-6dc5-4d07-8e37-c466bd3b4bf6")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -38556,7 +38556,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "26a7b6c3-55f8-411c-8af6-67163f01576a")
+			(uuid "6b165855-4ed4-47bb-a182-98172bf476f4")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -39552,7 +39552,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "049d6f01-369a-4907-8c3a-9074ee91d4ea")
+			(uuid "e7359451-0fd2-445e-a355-b403370bc5d1")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -40360,7 +40360,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "ddfed06e-37c7-4deb-8e73-312ef1538851")
+			(uuid "f18505d1-125f-49eb-bb1b-1c6765c71119")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -45785,7 +45785,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "6d0d1c57-de74-48a9-8f5c-02c6c5812276")
+			(uuid "68ffb9b5-388f-4d02-a78b-d73f7ad626fd")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -47491,7 +47491,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "1e1ebd5b-0ba3-450a-9a64-dc8cdac5d2ba")
+			(uuid "ab66dcc4-ac12-4e2f-90b6-5613bb9a4510")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -49986,7 +49986,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "83bec10a-b509-44b4-a265-3b2af457ab33")
+			(uuid "e4bf7d55-044f-4da2-a85b-fd853cae9814")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -52228,7 +52228,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "68f83299-77ec-48f4-9d24-cf91c2c90bc0")
+			(uuid "e472cf87-37a2-43bf-b4e5-e58cb3f1efd0")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -55225,7 +55225,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "ae1eaa0d-6343-4eb0-a167-737b0ebe0251")
+			(uuid "d081668a-663a-47f9-b9af-aaf32a799abc")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -56441,7 +56441,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "a82db1a6-f523-4fdf-819f-692702de8f3d")
+			(uuid "4efefd5e-586c-400f-9ccf-90fa06b20320")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -58530,7 +58530,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "cdf2e49a-de81-4902-bae0-c5beb6198d11")
+			(uuid "fce3aad7-8480-4139-943d-02297e68d7c3")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -59093,7 +59093,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "411ca69d-9421-4737-a570-f5e3393fa63a")
+			(uuid "30c77126-4bd6-4af3-aab9-9d1e3db512eb")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -59656,7 +59656,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "e910bb7b-9612-4321-8542-d68429cfe8ba")
+			(uuid "c14a5c89-3dee-4dd2-8d2c-8aa2b17c2dc9")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -61867,7 +61867,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "ff353bef-de19-4464-9d57-af1c7d6dbc9d")
+			(uuid "0b23b711-8d28-4034-9e49-9b2536dc88e1")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -62430,7 +62430,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "1726d167-6568-4e32-ba66-5e4db8b277c3")
+			(uuid "08f0fe00-98a9-4403-8d4d-74c927e7275b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -68660,7 +68660,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "96bd9b2c-c3c4-4cce-a66b-82d1ffeb92b2")
+			(uuid "c6cb38b3-055a-4e28-bccc-361ff2fd9c92")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -69783,7 +69783,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "af8bc756-ce74-43ea-b1c7-3c0a74c73229")
+			(uuid "7b300a9b-3882-4974-89aa-030b84dbddd8")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -70779,7 +70779,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "b8da955c-2638-439b-99ca-da78d2e53812")
+			(uuid "2451c757-8800-4273-89b6-23e6c2143da1")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -71658,7 +71658,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "65ba4651-ffe1-4b7c-9dc3-9870f71ebaf9")
+			(uuid "d2855673-320e-4d8b-b66d-762e39e98ffe")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -72221,7 +72221,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "e6734b9a-5596-4ec2-8c3e-cf9a28a7797d")
+			(uuid "6f950f97-eafe-4274-98a9-4f1ed4c90ea1")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -74280,7 +74280,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "78ccc888-ff59-4c29-b8cf-53d023b7fb19")
+			(uuid "7ee3135b-6b63-4914-96a3-7d482ebdc37d")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -76072,7 +76072,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "583c9985-fed6-4891-a16b-7c043ed8824c")
+			(uuid "0dff65da-a38e-4862-8cb2-2ba2edc144b9")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -78854,7 +78854,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "27734c02-f63a-46d0-b886-1d27f51038b5")
+			(uuid "a9f1729c-2725-4463-aa18-505b81c11005")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -82206,7 +82206,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "52aa75de-dc7d-4cd3-b6dc-4aa188496362")
+			(uuid "c5b28c72-d20e-4100-b24c-909a033fcbdd")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -85506,7 +85506,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "a680514b-f104-4c8f-8b5d-7e6326d8f0a5")
+			(uuid "2012a2f7-2620-48be-abf7-982834e39fa8")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -90233,7 +90233,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "cb544945-a42c-4735-8cc7-e38f63996e02")
+			(uuid "9befafd5-650f-447e-8bf5-9b61d93af34b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -90796,7 +90796,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "39970f91-e079-4ef3-b09f-f81827b8526f")
+			(uuid "6376fee8-4fc6-40a7-aea6-e314a553e161")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -91359,7 +91359,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "d0897bb9-44bf-4a74-9675-d5a58651ca82")
+			(uuid "384036b9-e5cf-4a7a-8620-dc732cf32379")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -94636,7 +94636,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "a47b5ed1-f0e1-4eae-b969-daaacb48bbac")
+			(uuid "2baac370-f863-42cb-a5f8-f36376a9918a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -96752,7 +96752,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "3d85971a-9d17-47c5-a4d2-d486beb3f565")
+			(uuid "7e0dc032-3895-467c-a6f8-c7c3dbbaf041")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -99806,7 +99806,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "6f7f9021-0ec1-4d45-99be-49aebd9e73a3")
+			(uuid "d2cd4d6f-3f91-47a0-874e-bd4b45f8fa77")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -100369,7 +100369,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "3f1e85f3-d501-4a17-8c52-f04cf9120e64")
+			(uuid "de3e4d02-6308-4fd3-ac27-56bb3ff872e5")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -101349,7 +101349,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "337686c4-547c-4538-a2b3-3e372a1cfcf3")
+			(uuid "d8339b67-987d-45ae-93c7-8cb832bff84b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -102352,7 +102352,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "8da1459c-4f96-48e6-824d-a27f84ce1cb8")
+			(uuid "f1b6eda9-dfe6-4a51-a416-b64020f210a3")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -105745,7 +105745,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "2778f0e8-df03-4639-932f-07d28508575d")
+			(uuid "99618717-78a6-4c73-be64-e58f85b657a4")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
@@ -108025,7 +108025,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(zone_connect 2)
-			(uuid "fcae54db-c799-47e5-a0df-c7d7ac32a28e")
+			(uuid "cae588b0-ebba-4224-9193-74e46cb4dc69")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl"
